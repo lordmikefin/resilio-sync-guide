@@ -27,6 +27,8 @@ cd "%HOMEDRIVE%%HOMEPATH%\Downloads"
 PowerShell -Command "& {$client = new-object System.Net.WebClient; $client.DownloadFile('https://download-cdn.resilio.com/stable/windows64/Resilio-Sync_x64.exe','.\Resilio-Sync_x64.exe')}"
 
 Resilio-Sync_x64.exe /PERFORMINSTALL /S
+
+"C:\Users\lordmike\AppData\Roaming\Resilio Sync\Resilio Sync.exe"
 ```
 
 
