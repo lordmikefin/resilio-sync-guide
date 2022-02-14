@@ -19,6 +19,9 @@ B66VIKY3A34K6UE3L3W44ZGRBWEM3MSBK
 
  1. Click '+' symbol top left of Resilio Sync app
  2. Next select 'Enter a key or link' from the list
+
+    ![Enter key selection](Enter-a-key-or-link-selection.png)
+
  3. Create/select folder where you want to plase content of shared foled
 
 
