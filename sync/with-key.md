@@ -1,4 +1,6 @@
 
+[back](../resilio-sync-guide#read-only-key-for-my-test-share)
+
 # Sync folder with key using Resilio Sync
 
 
