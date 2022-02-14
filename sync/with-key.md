@@ -22,6 +22,7 @@ B66VIKY3A34K6UE3L3W44ZGRBWEM3MSBK
 
     ![Enter key selection](Enter-a-key-or-link-selection.png)
 
- 3. Create/select folder where you want to plase content of shared foled
+ 3. Enter the key
+ 4. Create/select folder where you want to plase content of shared foled
 
 
