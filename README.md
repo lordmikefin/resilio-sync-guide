@@ -23,6 +23,8 @@ Read only key:
 B66VIKY3A34K6UE3L3W44ZGRBWEM3MSBK
 ```
 
+Read more about [Sync folder with a key](sync/with-key.md)
+
 
 ## Installing in Windows
 
@@ -42,7 +44,7 @@ PowerShell -Command "& {$client = new-object System.Net.WebClient; $client.Downl
 
 Resilio-Sync_x64.exe /PERFORMINSTALL /S
 
-"C:\Users\lordmike\AppData\Roaming\Resilio Sync\Resilio Sync.exe"
+"%HOMEDRIVE%%HOMEPATH%\AppData\Roaming\Resilio Sync\Resilio Sync.exe"
 ```
 
 
